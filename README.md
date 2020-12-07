@@ -6,6 +6,7 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 ### ✔️ I'm currently learning
 - ReactJS
 - VueJS
+- Advanced JavaScript Animations
 
 ### 💻 I'm working on
 - Building projects and my portfolio website. 
