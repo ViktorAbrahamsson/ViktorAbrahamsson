@@ -4,22 +4,21 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 - Kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp).
 
 ### ✔️ I'm currently learning
+- Umbraco
 - ReactJS
-- VueJS
-- JavaScript Animations
+- More JavaScript
 
 ### 💻 I'm working on
 - Building projects and my portfolio website. 
 - Bygger projekt och utvecklar min portfolio-webbplats.
 
 ### 💡 Goals for 2021
-- Vidareutveckla webb-porfolio till en grad där jag är nöjd.
 - Börja och avsluta mer projekt.
 - Bli mer flytande i JavaScript.
-- Börja gå utanför min komfortzon gällande design.
+- Få mer erfarenhet inom webbutveckling.
 
 ### 🌴 Fun facts
-- Har tävlat i League of Legends på en semipro-nivå.
+- Har tävlat i League of Legends på en semiproffs-nivå.
 - Talar flytande svenska, engelska och förhoppningsvis flytande tyska inom några år.
 
 ### ☕ Get in touch
