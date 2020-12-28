@@ -9,6 +9,7 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 - More JavaScript
 
 ### 💻 I'm working on
+- Refreshing Webdevelopment basics after half a year not coding.
 - Building projects and my portfolio website. 
 - Bygger projekt och utvecklar min portfolio-webbplats.
 
