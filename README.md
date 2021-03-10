@@ -4,14 +4,13 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 - Kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp).
 
 ### ✔️ I'm currently learning
-- Umbraco
-- ReactJS
-- More JavaScript
+- Mer ReactJS
+- Mer JavaScript
+- Uppfriskar grunderna i C#.NET
 
 ### 💻 I'm working on
-- Refreshing Webdevelopment basics after half a year not coding.
-- Building projects and my portfolio website. 
-- Bygger projekt och utvecklar min portfolio-webbplats.
+- Uppfriskar webbutvecklingskunskaperna efter ett halvår paus.
+- Bygger småprojekt, vidareutvecklar min portfolia webbplats och dyker in i nya tekniker.
 
 ### 💡 Goals for 2021
 - Börja och avsluta mer projekt.
@@ -19,7 +18,8 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 - Få mer erfarenhet inom webbutveckling.
 
 ### 🌴 Fun facts
-- Har tävlat i League of Legends på en semiproffs-nivå.
+- Tävlar i League of Legends på en semiproffs-nivå.
+- Självutnämnd Wikipedia om Star Wars.
 - Talar flytande svenska, engelska och förhoppningsvis flytande tyska inom några år.
 
 ### ☕ Get in touch
