@@ -2,6 +2,7 @@ Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen
 
 ### ⚡ Relevant achievements
 - Kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp).
+- Worked 10 months ish as IT-Consultant.
 
 ### ✔️ I'm currently learning
 - Mer ReactJS
