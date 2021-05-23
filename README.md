@@ -1,26 +1,24 @@
-Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp) 2020. Just nu jobbar jag som IT-konsult på DataKraft i Småland AB.
+Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp) 2020.
+Just nu jobbar jag som Webbutvecklare på Toxic Interactive Solutions AB.
 
 ### ⚡ Relevant achievements
 - Kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp).
-- Worked 10 months ish as IT-Consultant.
+- 10 månaders erfarenhet av att jobba som IT-konsult.
 
 ### ✔️ I'm currently learning
-- Mer ReactJS
-- Mer JavaScript
+- Umbraco!
 - Uppfriskar grunderna i C#.NET
 
 ### 💻 I'm working on
-- Uppfriskar webbutvecklingskunskaperna efter ett halvår paus.
-- Bygger småprojekt, vidareutvecklar min portfolia webbplats och dyker in i nya tekniker.
+- Fullt fokus på nytt jobb hos Toxic Interactive Solutions!
 
 ### 💡 Goals for 2021
-- Börja och avsluta mer projekt.
-- Bli mer flytande i JavaScript.
-- Få mer erfarenhet inom webbutveckling.
+- [ ] Börja och avsluta mer projekt.
+- [x] Börja jobba som webbutvecklare
 
 ### 🌴 Fun facts
 - Tävlar i League of Legends på en semiproffs-nivå.
-- Självutnämnd Wikipedia om Star Wars.
+- Svart hål mot allt angående Star Wars lore!
 - Talar flytande svenska, engelska och förhoppningsvis flytande tyska inom några år.
 
 ### ☕ Get in touch
