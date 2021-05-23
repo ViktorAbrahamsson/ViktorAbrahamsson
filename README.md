@@ -16,6 +16,7 @@ Just nu jobbar jag som Webbutvecklare på Toxic Interactive Solutions AB.
 - [x] Börja jobba som webbutvecklare.
 - [ ] Börja och avsluta mer projekt.
 - [ ] Bli flytande i Umbraco.
+- [ ] Skapa en ny portfolio-site från grunden upp.
 
 
 ### 🌴 Fun facts
