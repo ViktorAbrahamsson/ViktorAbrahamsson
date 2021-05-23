@@ -13,8 +13,10 @@ Just nu jobbar jag som Webbutvecklare på Toxic Interactive Solutions AB.
 - Fullt fokus på nytt jobb hos Toxic Interactive Solutions!
 
 ### 💡 Goals for 2021
+- [x] Börja jobba som webbutvecklare.
 - [ ] Börja och avsluta mer projekt.
-- [x] Börja jobba som webbutvecklare
+- [ ] Bli flytande i Umbraco.
+
 
 ### 🌴 Fun facts
 - Tävlar i League of Legends på en semiproffs-nivå.
