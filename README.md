@@ -1,30 +1,32 @@
-Välkommen till min GitHub! Mitt namn är Viktor Abrahamsson, tog kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp) 2020.
-Just nu jobbar jag som Webbutvecklare på Toxic Interactive Solutions AB.
+Welcome to my GitHub-profile. My name is Viktor Abrahamsson and im working as an Frontend webdeveloper in Sweden.
+You can get in touch thorugh the links below!
 
 ### ⚡ Relevant achievements
-- Kandidatexamen i "Webbutvecklare- Programmering" från Högskolan i Skövde (180hp).
-- 10 månaders erfarenhet av att jobba som IT-konsult.
+
+- Bachelor's degree in "Webbutvecklare- Programmering" from Högskolan i Skövde (180hp).
+- 10 months of experiance as IT-Technican.
+- 1 year (and counting) as Frontend Webdeveloper.
 
 ### ✔️ I'm currently learning
-- Umbraco!
-- Uppfriskar grunderna i C#.NET
+
+- Three.js & Blender.
 
 ### 💻 I'm working on
-- Fullt fokus på nytt jobb hos Toxic Interactive Solutions!
 
-### 💡 Goals for 2021
-- [x] Börja jobba som webbutvecklare.
-- [ ] Börja och avsluta mer projekt.
-- [ ] Bli flytande i Umbraco.
-- [ ] Skapa en ny portfolio-site från grunden upp.
+- Learning more about Umbraco & Three.js.
 
+### 💡 Goals for 2022
+
+- [ ] Learn Three.js.
+- [ ] Learn Basics of Blender.
 
 ### 🌴 Fun facts
-- Tävlar i League of Legends på en semiproffs-nivå.
-- Svart hål mot allt angående Star Wars lore!
-- Talar flytande svenska, engelska och förhoppningsvis flytande tyska inom några år.
+
+- Have competed in semi-proffesional League of Legends.
+- A walking black hole for everything Star Wars!
 
 ### ☕ Get in touch
+
 - LinkedIn: <a href = "https://www.linkedin.com/in/viktor-abrahamsson-51ba091a1/">Viktor Abrahamsson</a>
 - Website: <a href = "https://viktorabrahamsson.github.io/">viktorabrahamsson.github.io</a>
 - Twitter: <a href = "https://twitter.com/Wictrec">Wictrec</a>
