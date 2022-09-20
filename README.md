@@ -17,8 +17,9 @@ You can get in touch thorugh the links below!
 
 ### 💡 Goals for 2022
 
-- [ ] Learn Three.js.
-- [ ] Learn Basics of Blender.
+- [ ] Work on more projects.
+- [ x ] Improve Three.js knowledge.
+- [ x ] Learn Basics of Blender.
 
 ### 🌴 Fun facts
 
