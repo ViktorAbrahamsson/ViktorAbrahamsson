@@ -4,8 +4,8 @@ You can get in touch thorugh the links below!
 ### ⚡ Relevant achievements
 
 - Bachelor's degree in "Webbutvecklare- Programmering" from Högskolan i Skövde (180hp).
-- 10 months of experiance as IT-Technican.
-- 1 year (and counting) as Frontend Webdeveloper.
+- 1 year experiance as IT-Technican.
+- 2 year (and counting) as Frontend Webdeveloper.
 
 ### ✔️ I'm currently learning
 
@@ -15,11 +15,11 @@ You can get in touch thorugh the links below!
 
 - Learning more about Umbraco & Three.js.
 
-### 💡 Goals for 2022
+### 💡 Goals for 2023
 
-- [ ] Work on more projects.
-- [ x ] Improve Three.js knowledge.
-- [ x ] Learn Basics of Blender.
+- [  ] Improve Three.js knowledge.
+- [  ] Improve React.js knowledge.
+
 
 ### 🌴 Fun facts
 
